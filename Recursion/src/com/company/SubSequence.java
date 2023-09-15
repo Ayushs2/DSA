@@ -10,7 +10,7 @@ public class SubSequence {
 //        for (int i = 0; i < st.size(); i++) {
 //            System.out.println(st.get(i));
 //        }
-        //subseq(s, "");
+        subseq(s, "");
 //        ArrayList<String> ans = subsequence(s,"");
 //        System.out.println(ans);
 //        ArrayList<String> ans =subSeq(s);
